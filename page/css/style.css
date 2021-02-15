@@ -1,0 +1,53 @@
+body
+{
+    background-color: lightskyblue;
+}
+section
+{
+    background-color: honeydew;
+    margin-right: 20%;
+}
+h1{
+background-color: mediumblue;
+color: mintcream;
+}
+p{
+background-color: rgb(218, 30, 171);
+color: palegoldenrod;
+}
+h2
+{
+background-color: plum;
+color: purple;
+}
+h2 + p 
+{
+background-color: seashell;
+color: teal;
+}
+ul
+{
+background-color: rgb(40, 5, 73);
+color: azure;
+}
+li
+{
+background-color: rgb(25, 2, 46);
+margin-left: 10px;
+}
+li + li
+{
+background-color: rgb(62, 7, 114);
+}
+li + li +li
+{
+background-color: rgb(155, 64, 240);
+}
+li + li +li+ li
+{
+background-color: rgb(189, 122, 252);
+}
+li + li +li+ li+ li 
+{
+background-color: rgb(218, 181, 253);
+}
